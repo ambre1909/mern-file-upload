@@ -21,3 +21,11 @@ export default function App() {
 
   )
 }
+
+// git init
+// git add . 
+//  git commit -m "initial commit" 
+//  git remote add origin https://github.com/ambre1909/mern-file-upload.git
+// git push origin master
+
+// to host=> yarn run build
